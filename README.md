@@ -22,7 +22,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20190623%2Fuxe%2Fkisspng-logo-java-development-kit-portable-network-graphic-5d0f25d6871765.6875406615612738145533.jpg&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-logo-java-development-kit-portable-network-graphic-7247346%2F&tbnid=w1Wz9GYqDiUZrM&vet=12ahUKEwj7xomy1LPtAhWrG7cAHepdAZIQMygEegUIARDZAQ..i&docid=_8w5jifccR6RgM&w=900&h=780&q=java%20logo&client=safari&ved=2ahUKEwj7xomy1LPtAhWrG7cAHepdAZIQMygEegUIARDZAQ" />
+<img align="left" alt="Java" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2020%2F09%2FJava-Logo.png&imgrefurl=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&tbnid=0TV9C2oWrzhoEM&vet=12ahUKEwj7xomy1LPtAhWrG7cAHepdAZIQMygBegUIARDTAQ..i&docid=20P0dWoJnqralM&w=4000&h=2500&q=java%20logo&client=safari&ved=2ahUKEwj7xomy1LPtAhWrG7cAHepdAZIQMygBegUIARDTAQ" />
 <img align="left" alt="Python" width="26px" src="" />
 <img align="left" alt="Spring" width="26px" src="" />
 <img align="left" alt="Scikit-learn" width="26px" src="" />
