@@ -1,4 +1,4 @@
-### Hi there, I'm Ishika Tailor 👋
+### Hi there, I'm Ishika Tailor ! 👋
 
 ## I'm currently studying in L. D. College of Engineering!
 
