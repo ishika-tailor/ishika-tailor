@@ -1,18 +1,17 @@
-### Hi there, I'm Ishika Tailor👋
+### Hi there, I'm Ishika Tailor 👋
 
-## I'm currently studying in L. D. College of engineering!!
+## I'm currently studying in L. D. College of Engineering!
 
 - 🌱 I’m currently learning everything!
 - ⚡ Enthusisatic towards new technology 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Want to Contribute more to Open Source projects
 
 ### Connect with me:
 
 
+[<img align="left" alt="ishika-tailor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ishika-tailor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ishika-tailor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ishika-tailor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
