@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything!
 - ⚡ Enthusisatic towards new technology 
-- 🥅 2020 Goals: Want to Contribute more to Open Source projects
+- 🥅 2021 Goals: Want to Contribute more to Open Source projects
 
 ### Connect with me:
 
