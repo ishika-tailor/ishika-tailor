@@ -35,6 +35,7 @@
 <br />
 
 ---
+<a href="https://app.daily.dev/ishika_tailor"><img src="https://api.daily.dev/devcards/aeaa4d19373e4025a3c26a50fecea8af.png?r=sw9" width="400" alt="Ishika Tailor's Dev Card"/></a>
 
 ### 📺 Latest YouTube Videos
 
